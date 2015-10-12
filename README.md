@@ -1,7 +1,7 @@
 SpreeSimpleSales
 ================
 
-Introduction goes here.
+Display a sales price on products. OG price has strikethrough and grayed.
 
 Installation
 ------------
