@@ -36,4 +36,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_simple_sales/factories'
 ```
 
-Copyright (c) 2015 [name of extension creator], released under the New BSD License
+Copyright (c) 2015 Josh Echeverri, released under the New BSD License
